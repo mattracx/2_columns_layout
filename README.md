@@ -1,4 +1,4 @@
-# 2 Columns Responsive Layout - Flutter App
+# 2 Columns Responsive Layout - Flutter/Dart App
 
 It includes 2 columns (sidebar 260px on the left, main content on the right)
 In the main content there is a fixed header 60px and a scrollable GridView

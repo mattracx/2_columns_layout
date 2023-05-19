@@ -1,6 +1,14 @@
-# xpenses
+# 2 Columns Responsive Layout - Flutter App
 
-A new Flutter project.
+It includes 2 columns (sidebar 260px on the left, main content on the right)
+In the main content there is a fixed header 60px and a scrollable GridView
+
+### The app is at a very early stage, mobile layout still not implemented. But it can still be used as a blank template for new apps.
+
+## Screenshot
+
+<img width="993" alt="image" src="https://github.com/mattracx/2_columns_layout/assets/1215814/8cfa87a0-5bb9-43dc-b558-ae695f43e828">
+
 
 ## Getting Started
 
